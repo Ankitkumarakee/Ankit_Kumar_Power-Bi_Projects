@@ -37,10 +37,3 @@ It is not “perfect-perfect”, but that’s okay—real projects always have a
 - Business Intelligence storytelling  
 
 ---
-
-## 📷 Screenshots
-![Dashboard Preview](assets/screen-1.png)  
-
----
-
-## 📂 Repository Structure
